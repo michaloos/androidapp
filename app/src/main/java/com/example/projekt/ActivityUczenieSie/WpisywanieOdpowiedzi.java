@@ -59,9 +59,9 @@ public class WpisywanieOdpowiedzi extends AppCompatActivity {
             public void onClick(View v) {
                 String s1 = editslowo.getText().toString().trim();
                 if(s1.equals(list.get(i).getTlumaczenie())){
-                    Toast.makeText(WpisywanieOdpowiedzi.this,"Dobra odpowiedź",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(WpisywanieOdpowiedzi.this,R.string.dobra_odpo,Toast.LENGTH_SHORT).show();
                 }else{
-                    Toast.makeText(WpisywanieOdpowiedzi.this,"Zła odpowiedź",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(WpisywanieOdpowiedzi.this,R.string.zla_odpo,Toast.LENGTH_SHORT).show();
                 }
             }
         });

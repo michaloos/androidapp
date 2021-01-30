@@ -28,11 +28,7 @@ public class PoziomTrudnosci3 extends AppCompatActivity {
     private Button odp4;
     private List<SlowkoModel> list;
     Random random = new Random();
-    private int prawidlowa_odp;
     private int i;
-    private int x;
-    private int y;
-    private int z;
     private ImageButton speaker;
     TextToSpeech textToSpeech;
     private int lastOrientation;
@@ -60,10 +56,10 @@ public class PoziomTrudnosci3 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if(odp1.getText().toString().toLowerCase().equals(list.get(i).getTlumaczenie().toLowerCase())){
-                    Toast.makeText(PoziomTrudnosci3.this,"Dobra odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.dobra_odpo, Toast.LENGTH_SHORT).show();
                     i = ustawSlowo();
                 }else{
-                    Toast.makeText(PoziomTrudnosci3.this,"Zła odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.zla_odpo, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -71,10 +67,10 @@ public class PoziomTrudnosci3 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if(odp2.getText().toString().toLowerCase().equals(list.get(i).getTlumaczenie().toLowerCase())){
-                    Toast.makeText(PoziomTrudnosci3.this,"Dobra odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.dobra_odpo, Toast.LENGTH_SHORT).show();
                     i = ustawSlowo();
                 }else{
-                    Toast.makeText(PoziomTrudnosci3.this,"Zła odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.zla_odpo, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -82,10 +78,10 @@ public class PoziomTrudnosci3 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if(odp3.getText().toString().toLowerCase().equals(list.get(i).getTlumaczenie().toLowerCase())){
-                    Toast.makeText(PoziomTrudnosci3.this,"Dobra odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.dobra_odpo, Toast.LENGTH_SHORT).show();
                     i = ustawSlowo();
                 }else{
-                    Toast.makeText(PoziomTrudnosci3.this,"Zła odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.zla_odpo, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -93,10 +89,10 @@ public class PoziomTrudnosci3 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if(odp4.getText().toString().toLowerCase().equals(list.get(i).getTlumaczenie().toLowerCase())){
-                    Toast.makeText(PoziomTrudnosci3.this,"Dobra odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.dobra_odpo, Toast.LENGTH_SHORT).show();
                     i = ustawSlowo();
                 }else{
-                    Toast.makeText(PoziomTrudnosci3.this,"Zła odpowiedź!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(PoziomTrudnosci3.this,R.string.zla_odpo, Toast.LENGTH_SHORT).show();
                 }
             }
         });

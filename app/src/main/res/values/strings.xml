@@ -44,4 +44,6 @@
     <string name="wybierz_spos_b_nauki">Wybierz sposób nauki</string>
     <string name="wyb_r_spo_r_d_kilki_dost_pnych_odpowiedzi">Wybór spośród kilki dostępnych odpowiedzi</string>
     <string name="wpisywanie_odpowiedzi">Wpisywanie odpowiedzi</string>
+    <string name="dobra_odpo">DOBRA ODPOWIEDŹ</string>
+    <string name="zla_odpo">ZŁA ODPOWIEDŹ</string>
 </resources>
