@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".Testy.Sredni_Test">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/wybierz_w_a_ciw_odpowiedzz"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/slowo_test_sredni"
+        android:layout_width="200dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:textSize="15sp" />
+
+    <include layout="@layout/four_buttons_answers"/>
+
+    <Button
+        android:id="@+id/koniectestsredni"
+        android:layout_width="120dp"
+        app:cornerRadius="25sp"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_button"
+        android:layout_height="wrap_content"
+        android:text="@string/zako_cz"/>
+
+
+</LinearLayout>

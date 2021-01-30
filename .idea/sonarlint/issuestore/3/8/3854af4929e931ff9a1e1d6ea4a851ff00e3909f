@@ -1,0 +1,27 @@
+
+J
+java:S1604S"(Make this anonymous inner class a lambda(ëèıûşÿÿÿÿ8§ù–ÿñ.
+\
+java:S1854W":Remove this useless assignment to local variable "speech".(³ê¢êüÿÿÿÿ8§ù–ÿñ.
+O
+java:S1874W"-Remove this use of "speak"; it is deprecated.(³ê¢êüÿÿÿÿ8ÜÁ˜ÿñ.
+J
+java:S1481O"-Remove this unused "language" local variable.(ï¸ÁŸ8§ù–ÿñ.
+M
+java:S1481W"+Remove this unused "speech" local variable.(³ê¢êüÿÿÿÿ8§ù–ÿñ.
+y
+java:S1450"WRemove the "nastepne" field and declare it as a local variable in the relevant methods.(ëíŞ±úÿÿÿÿ8ÕÕİñ.
+s
+java:S1450 "VRemove the "speaker" field and declare it as a local variable in the relevant methods.(èó ¡8‡´”ÿñ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íËÅûûÿÿÿÿ
+E
+java:S16049"(Make this anonymous inner class a lambda(¾Öè8ÕÕİñ.
+J
+java:S1604K"(Make this anonymous inner class a lambda(š´µ‡ÿÿÿÿÿ8§ù–ÿñ.
+s
+java:S1450"VRemove the "sprawdz" field and declare it as a local variable in the relevant methods.(íƒ»÷8·÷Õİñ.
+Y
+java:S1854O"<Remove this useless assignment to local variable "language".(ï¸ÁŸ8§ù–ÿñ.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(¡Àğ¨ÿÿÿÿÿ
+J
+java:S1604E"(Make this anonymous inner class a lambda(ÖîÆèıÿÿÿÿ8ÕÕİñ.

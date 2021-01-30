@@ -1,0 +1,8 @@
+
+l	java:S116"WRename this field "button_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÆ¼¥
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿ‰¦°
+Q	java:S110
+"<This class has 9 parents which is greater than 5 authorized.(²Ú±Ž
+q
+java:S1450"[Remove the "button_start" field and declare it as a local variable in the relevant methods.(ÒÆ¼¥

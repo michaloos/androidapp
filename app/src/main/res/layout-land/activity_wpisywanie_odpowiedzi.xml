@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".ActivityUczenieSie.WpisywanieOdpowiedzi">
+
+    <include layout="@layout/wpisuj_slowo_layout"/>
+
+    <Button
+        android:id="@+id/sprawdz_wypisywanie"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:cornerRadius="25sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_button"
+        android:text="@string/sprawd"/>
+    
+    <Button
+        android:id="@+id/button_nastepne_slowo_wypisywanie"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        app:cornerRadius="25sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_button"
+        android:text="@string/nast_pne_s_owo"/>
+
+    <ImageButton
+        android:id="@+id/speaker"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/speaker"/>
+
+</LinearLayout>

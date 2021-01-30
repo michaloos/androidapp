@@ -1,0 +1,25 @@
+
+J
+java:S16044"(Make this anonymous inner class a lambda(•—õ´úÿÿÿÿ8ÈìÓÖñ.
+J
+java:S1604="(Make this anonymous inner class a lambda(È¦¿ûÿÿÿÿ8ÈìÓÖñ.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(Úš‡°ıÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¡ó½ˆó.
+E
+java:S1604O"(Make this anonymous inner class a lambda(îæßñ8ÈìÓÖñ.
+J
+java:S1604Y"(Make this anonymous inner class a lambda(î™à¦øÿÿÿÿ8ÈìÓÖñ.
+v	java:S116"URename this field "wlasne_odp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‰¶°ıÿÿÿÿ8İ¦”Öñ.
+x
+java:S1450"VRemove the "zacznij" field and declare it as a local variable in the relevant methods.(œáÀŒıÿÿÿÿ8ÿÑ–Öñ.
+E
+java:S1604F"(Make this anonymous inner class a lambda(Ó¿ïË8ÈìÓÖñ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8•ôîÙñ.
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¡ó½ˆó.
+e
+java:S1128"HRemove this unused import 'com.example.projekt.UntityClass.SlowkoModel'.(»óşè8¡ó½ˆó.
+E
+java:S1604+"(Make this anonymous inner class a lambda(ë’”Ë8ÈìÓÖñ.

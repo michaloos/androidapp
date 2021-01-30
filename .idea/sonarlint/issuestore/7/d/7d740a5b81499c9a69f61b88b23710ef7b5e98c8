@@ -1,0 +1,52 @@
+
+s
+java:S1450""VRemove the "speaker" field and declare it as a local variable in the relevant methods.(èó ¡8‰£”ÿñ.
+o
+java:S1192>"RDefine a constant instead of duplicating this literal "Dobra odpowiedÅº!" 5 times.(î¤¡¤8åÖºÕò.
+O
+java:S1874}"-Remove this use of "speak"; it is deprecated.(³ê¢êüÿÿÿÿ8ùğ»Õò.
+J
+java:S1604["(Make this anonymous inner class a lambda(¾Ñşõÿÿÿÿÿ8¢ĞöÛñ.
+J
+java:S1604y"(Make this anonymous inner class a lambda(ëèıûşÿÿÿÿ8ùğ»Õò.
+J
+java:S1604q"(Make this anonymous inner class a lambda(š´µ‡ÿÿÿÿÿ8ùğ»Õò.
+J
+java:S1481u"-Remove this unused "language" local variable.(ï¸ÁŸ8ùğ»Õò.
+…
+java:S1157i"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Á¦…ùÿÿÿÿ8ùğ»Õò.
+s
+java:S1192A"QDefine a constant instead of duplicating this literal "ZÅ‚a odpowiedÅº!" 5 times.(”™ıÿÿÿÿ8ÇúÛñ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íËÅûûÿÿÿÿ
+E
+java:S1604:"(Make this anonymous inner class a lambda(Ø÷¯ò8û‰öÛñ.
+E
+java:S1604E"(Make this anonymous inner class a lambda(Ş„Ş¨8¢ĞöÛñ.
+…
+java:S1157H"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·®–İûÿÿÿÿ8€Ğ»Õò.
+X
+java:S1117º"5Rename "i" which hides the field declared at line 33.(Ê¹¸ªÿÿÿÿÿ8ùğ»Õò.
+€
+java:S1157="cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(î”÷¯8åÖºÕò.
+…
+java:S1157S"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(äâÑ²ûÿÿÿÿ8€Ğ»Õò.
+E
+java:S1604P"(Make this anonymous inner class a lambda(‹şÏÍ8¢ĞöÛñ.
+T
+java:S1068 "2Remove this unused "prawidlowa_odp" private field.(ÙúĞéøÿÿÿÿ8ùğ»Õò.
+z	java:S116 "YRename this field "prawidlowa_odp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙúĞéøÿÿÿÿ8¨ÒäÛñ.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(ÇÎÎûÿÿÿÿ
+E
+java:S1604f"(Make this anonymous inner class a lambda(åĞ´â8¢ĞöÛñ.
+X
+java:S1117´"5Rename "i" which hides the field declared at line 33.(¾Øàéüÿÿÿÿ8ùğ»Õò.
+Y
+java:S1854u"<Remove this useless assignment to local variable "language".(ï¸ÁŸ8ùğ»Õò.
+M
+java:S1481}"+Remove this unused "speech" local variable.(³ê¢êüÿÿÿÿ8ùğ»Õò.
+\
+java:S1854}":Remove this useless assignment to local variable "speech".(³ê¢êüÿÿÿÿ8ùğ»Õò.
+t
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨Œşÿÿÿÿ8½ƒ™Üñ.
+…
+java:S1157^"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(é¬öƒüÿÿÿÿ8€Ğ»Õò.

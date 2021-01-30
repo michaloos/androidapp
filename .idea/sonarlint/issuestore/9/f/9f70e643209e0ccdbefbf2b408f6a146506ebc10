@@ -1,0 +1,34 @@
+
+s
+java:S1104"QMake wynik a static final constant or non-public and provide accessors if needed.(®œ•µúÿÿÿÿ8€ÌÃÌò.
+u
+java:S1104""XMake liczba_pytan a static final constant or non-public and provide accessors if needed.(çüİÉ8î”ñÿò.
+O
+java:S1128	"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Ó½÷Íò.
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒÖ”üÿÿÿÿ8î”ñÿò.
+X
+java:S1117"5Rename "i" which hides the field declared at line 36.(¾Øàéüÿÿÿÿ8‘óöÍò.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûŠ•ƒÿÿÿÿÿ8òøêŞñ.
+s
+java:S1450"VRemove the "zakoncz" field and declare it as a local variable in the relevant methods.(ÏŒ†î8Î¦©Ëò.
+X
+java:S1117£"5Rename "i" which hides the field declared at line 36.(Ê¹¸ªÿÿÿÿÿ8î”ñÿò.
+Z
+java:S1128"8Remove this unused import 'com.example.projekt.GetData'.(«¿÷Êúÿÿÿÿ8üŠâ¤ò.
+E
+java:S1604^"(Make this anonymous inner class a lambda(˜—¡è8î”ñÿò.
+€
+java:S11579"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(î”÷¯8î”ñÿò.
+]	java:S110"<This class has 9 parents which is greater than 5 authorized.(ûŠ•ƒÿÿÿÿÿ8òøêŞñ.
+…
+java:S1157F"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·®–İûÿÿÿÿ8î”ñÿò.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ŒŸ]
+£
+java:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«—Ó“üÿÿÿÿ8î”ñÿò.
+E
+java:S1604X"(Make this anonymous inner class a lambda(šĞı¯8î”ñÿò.
+J
+java:S1604S"(Make this anonymous inner class a lambda(ÔÄ‡ùÿÿÿÿ8î”ñÿò.
+[
+java:S1128"9Remove this unused import 'com.example.projekt.AddSlowo'.(å»àÔüÿÿÿÿ8ß¶‘áñ.
+s	java:S116""WRename this field "liczba_pytan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çüİÉ8î”ñÿò.

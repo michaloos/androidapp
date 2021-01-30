@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".Testy.Latwy_Test">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/wybierz_w_a_ciw_odpowiedzz"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/slowo_test_latwy"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_margin="10dp"/>
+
+    <include layout="@layout/two_buttons_answers"/>
+
+    <Button
+        android:id="@+id/koniectestlatwy"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        app:cornerRadius="25sp"
+        android:background="@drawable/custom_button"
+        android:textColor="@color/white"
+        android:text="@string/zako_cz"/>
+
+</LinearLayout>

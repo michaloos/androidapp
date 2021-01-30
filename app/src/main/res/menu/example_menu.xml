@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/dropdown_menu"
+        android:icon="@drawable/ic_menu"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu">
+        <menu>
+            <item android:id="@+id/slownik_menu"
+                android:title="@string/s_ownik_diki"/>
+            <item android:id="@+id/youtube_menu"
+                android:title="@string/youtube_dla_ambitnych"/>
+        </menu>
+    </item>
+
+</menu>

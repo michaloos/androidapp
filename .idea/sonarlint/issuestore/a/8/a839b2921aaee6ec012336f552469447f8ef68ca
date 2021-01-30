@@ -1,0 +1,7 @@
+
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(½óÛÿ
+y	java:S116"XRename this field "button_update" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÓÔîûÿÿÿÿ8§§‡ñ.
+~
+java:S1450"\Remove the "button_update" field and declare it as a local variable in the relevant methods.(ÌÓÔîûÿÿÿÿ8§§‡ñ.
+J
+java:S1604"(Make this anonymous inner class a lambda(­Úîšşÿÿÿÿ8§§‡ñ.

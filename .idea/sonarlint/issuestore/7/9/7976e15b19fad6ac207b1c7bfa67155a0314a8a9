@@ -1,0 +1,40 @@
+
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¨Œşÿÿÿÿ8æåËâñ.
+r
+java:S1450"URemove the "koniec" field and declare it as a local variable in the relevant methods.(§ÿÔí8¸ûÈâñ.
+X
+java:S1117Ì"5Rename "i" which hides the field declared at line 32.(Ê¹¸ªÿÿÿÿÿ8…éşÍò.
+F
+java:S1604ƒ"(Make this anonymous inner class a lambda(˜—¡è8Ï‹É¤ò.
+E
+java:S16048"(Make this anonymous inner class a lambda(Ø÷¯ò8æåËâñ.
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ñèƒ
+…
+java:S1157L"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·®–İûÿÿÿÿ8ÕÈ“Îò.
+E
+java:S1604X"(Make this anonymous inner class a lambda(‹şÏÍ8”˜Öâñ.
+E
+java:S1604}"(Make this anonymous inner class a lambda(šĞı¯8Ï‹É¤ò.
+X
+java:S1117Æ"5Rename "i" which hides the field declared at line 32.(¾Øàéüÿÿÿÿ8ñ®şÍò.
+J
+java:S1604h"(Make this anonymous inner class a lambda(¾Ñşõÿÿÿÿÿ8”˜Öâñ.
+E
+java:S1604H"(Make this anonymous inner class a lambda(Ş„Ş¨8æåËâñ.
+E
+java:S1604x"(Make this anonymous inner class a lambda( ±Íí8”˜Öâñ.
+€
+java:S1157<"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(î”÷¯8šÛÎò.
+…
+java:S1157l"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(é¬öƒüÿÿÿÿ8Ñİ“Îò.
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒÖ”üÿÿÿÿ8¯®ıÍò.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«—Ó“üÿÿÿÿ8Ú‡¾ÿò.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñèƒ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ŒŸ]
+…
+java:S1157\"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(äâÑ²ûÿÿÿÿ8ÕÈ“Îò.
+|
+java:S1192D"_Define a constant instead of duplicating this literal "To byÅ‚o juÅ¼ ostatnie pytanie" 4 times.(ÂåÏ‰8î¤Øâñ.
+x	java:S116""WRename this field "liczba_pytan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ğ“şÿÿÿÿ8æåËâñ.

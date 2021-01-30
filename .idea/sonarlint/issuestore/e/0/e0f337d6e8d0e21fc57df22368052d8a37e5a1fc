@@ -1,0 +1,60 @@
+
+T
+java:S1068"2Remove this unused "prawidlowa_odp" private field.(ÙúĞéøÿÿÿÿ8ÙƒÕò.
+G
+java:S1068!"%Remove this unused "x" private field.(ĞÇñüÿÿÿÿ8ÙƒÕò.
+…
+java:S1157T"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(äâÑ²ûÿÿÿÿ8ÙƒÕò.
+X
+java:S1117¨"5Rename "i" which hides the field declared at line 32.(¾Øàéüÿÿÿÿ8ãß•Õò.
+J
+java:S1604o"(Make this anonymous inner class a lambda(ëèıûşÿÿÿÿ8é±–ÿñ.
+t
+java:S1192?"RDefine a constant instead of duplicating this literal "Dobra odpowiedÅº!" 4 times.(¿ÂŞ¯ùÿÿÿÿ8ôä’Õò.
+E
+java:S1604Q"(Make this anonymous inner class a lambda(‹şÏÍ8Š¦ÀÛñ.
+Y
+java:S1854k"<Remove this useless assignment to local variable "language".(ï¸ÁŸ8é±–ÿñ.
+E
+java:S1604;"(Make this anonymous inner class a lambda(Ø÷¯ò8ô´¿Ûñ.
+…
+java:S1157I"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·®–İûÿÿÿÿ8ÙƒÕò.
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(æûç‡
+E
+java:S1604F"(Make this anonymous inner class a lambda(Ş„Ş¨8Š¦ÀÛñ.
+G
+java:S1068""%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ8ÙƒÕò.
+…
+java:S1157_"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(é¬öƒüÿÿÿÿ8ÙƒÕò.
+B
+java:S1068#"%Remove this unused "z" private field.(ğ‡ƒ¼8ÙƒÕò.
+O
+java:S1874s"-Remove this use of "speak"; it is deprecated.(³ê¢êüÿÿÿÿ8ªŒ˜ÿñ.
+J
+java:S1481k"-Remove this unused "language" local variable.(ï¸ÁŸ8é±–ÿñ.
+s
+java:S1450$"VRemove the "speaker" field and declare it as a local variable in the relevant methods.(èó ¡8ç’”ÿñ.
+\
+java:S1854s":Remove this useless assignment to local variable "speech".(³ê¢êüÿÿÿÿ8é±–ÿñ.
+J
+java:S1604\"(Make this anonymous inner class a lambda(¾Ñşõÿÿÿÿÿ8Š¦ÀÛñ.
+s
+java:S1192B"QDefine a constant instead of duplicating this literal "ZÅ‚a odpowiedÅº!" 4 times.(³Øòƒıÿÿÿÿ8‹¡ÃÛñ.
+z	java:S116"YRename this field "prawidlowa_odp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙúĞéøÿÿÿÿ8±ê²Ûñ.
+M
+java:S1481s"+Remove this unused "speech" local variable.(³ê¢êüÿÿÿÿ8é±–ÿñ.
+X
+java:S1117¯"5Rename "x" which hides the field declared at line 33.(¾ƒõ»ıÿÿÿÿ8ãß•Õò.
+€
+java:S1157>"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(î”÷¯8ôä’Õò.
+X
+java:S1117±"5Rename "z" which hides the field declared at line 35.(Ãåôìÿÿÿÿÿ8ãß•Õò.
+X
+java:S1117 "5Rename "x" which hides the field declared at line 33.(ëå–òøÿÿÿÿ8ãß•Õò.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íËÅûûÿÿÿÿ
+J
+java:S1604g"(Make this anonymous inner class a lambda(š´µ‡ÿÿÿÿÿ8é±–ÿñ.
+S
+java:S1117°"5Rename "y" which hides the field declared at line 34.(¦å§8ãß•Õò.
+X
+java:S1117®"5Rename "i" which hides the field declared at line 32.(Ê¹¸ªÿÿÿÿÿ8ãß•Õò.
