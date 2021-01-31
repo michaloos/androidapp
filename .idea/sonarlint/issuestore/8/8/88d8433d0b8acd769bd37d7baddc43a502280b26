@@ -1,52 +1,35 @@
 
-S
-java:S1117Ÿ"5Rename "y" which hides the field declared at line 33.(¦å§8È¥Õò.
 X
-java:S1117"5Rename "i" which hides the field declared at line 31.(Ê¹¸ªÿÿÿÿÿ8È¥Õò.
-t
-java:S1192<"RDefine a constant instead of duplicating this literal "Dobra odpowiedÅº!" 3 times.(ˆ¨†ÿÿÿÿÿ8²Ú¨Õò.
-z	java:S116"YRename this field "prawidlowa_odp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙúĞéøÿÿÿÿ8“´õÚñ.
-Y
-java:S1854]"<Remove this useless assignment to local variable "language".(ï¸ÁŸ8Ì†–ÿñ.
-…
-java:S1157Q"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(äâÑ²ûÿÿÿÿ8ÚÚ©Õò.
-J
-java:S1481]"-Remove this unused "language" local variable.(ï¸ÁŸ8Ì†–ÿñ.
-€
-java:S1157;"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(î”÷¯8²Ú¨Õò.
-…
-java:S1157F"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·®–İûÿÿÿÿ8ÓÅ©Õò.
-X
-java:S1117—"5Rename "i" which hides the field declared at line 31.(¾Øàéüÿÿÿÿ8È¥Õò.
-X
-java:S1117"5Rename "x" which hides the field declared at line 32.(¾ƒõ»ıÿÿÿÿ8È¥Õò.
-T
-java:S1068"2Remove this unused "prawidlowa_odp" private field.(ÙúĞéøÿÿÿÿ8ÚÚ©Õò.
-G
-java:S1068 "%Remove this unused "x" private field.(ĞÇñüÿÿÿÿ8ÚÚ©Õò.
-\
-java:S1854e":Remove this useless assignment to local variable "speech".(³ê¢êüÿÿÿÿ8Ì†–ÿñ.
-O
-java:S1874e"-Remove this use of "speak"; it is deprecated.(³ê¢êüÿÿÿÿ8ô×—ÿñ.
-s
-java:S1450""VRemove the "speaker" field and declare it as a local variable in the relevant methods.(èó ¡8˜€”ÿñ.
-V	java:S110"<This class has 9 parents which is greater than 5 authorized.(È¿¢íúÿÿÿÿ
-E
-java:S1604C"(Make this anonymous inner class a lambda(Ş„Ş¨8İ¬†Ûñ.
-G
-java:S1068!"%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ8ÚÚ©Õò.
-J
-java:S1604Y"(Make this anonymous inner class a lambda(š´µ‡ÿÿÿÿÿ8Ì†–ÿñ.
-E
-java:S16048"(Make this anonymous inner class a lambda(Ø÷¯ò8İ¬†Ûñ.
-X
-java:S1117"5Rename "x" which hides the field declared at line 32.(ëå–òøÿÿÿÿ8È¥Õò.
+java:S1117”"5Rename "i" which hides the field declared at line 30.(¾Øàéüÿÿÿÿ8È¥Õò.
 M
-java:S1481e"+Remove this unused "speech" local variable.(³ê¢êüÿÿÿÿ8Ì†–ÿñ.
-J
-java:S1604a"(Make this anonymous inner class a lambda(ëèıûşÿÿÿÿ8Ì†–ÿñ.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íËÅûûÿÿÿÿ
-n
-java:S1192?"QDefine a constant instead of duplicating this literal "ZÅ‚a odpowiedÅº!" 3 times.(üç¾Ï8Áú•Ûñ.
+java:S1481b"+Remove this unused "speech" local variable.(³ê¢êüÿÿÿÿ8Ì†–ÿñ.
 E
-java:S1604N"(Make this anonymous inner class a lambda(‹şÏÍ8İ¬†Ûñ.
+java:S16045"(Make this anonymous inner class a lambda(Ø÷¯ò8İ¬†Ûñ.
+O
+java:S1874b"-Remove this use of "speak"; it is deprecated.(³ê¢êüÿÿÿÿ8ô×—ÿñ.
+J
+java:S1604^"(Make this anonymous inner class a lambda(ëèıûşÿÿÿÿ8Ì†–ÿñ.
+E
+java:S1604K"(Make this anonymous inner class a lambda(‹şÏÍ8İ¬†Ûñ.
+X
+java:S1117š"5Rename "i" which hides the field declared at line 30.(Ê¹¸ªÿÿÿÿÿ8È¥Õò.
+J
+java:S1604V"(Make this anonymous inner class a lambda(š´µ‡ÿÿÿÿÿ8Ì†–ÿñ.
+€
+java:S11578"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(î”÷¯8²Ú¨Õò.
+…
+java:S1157C"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·®–İûÿÿÿÿ8ÓÅ©Õò.
+…
+java:S1157N"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(äâÑ²ûÿÿÿÿ8ÚÚ©Õò.
+E
+java:S1604@"(Make this anonymous inner class a lambda(Ş„Ş¨8İ¬†Ûñ.
+s
+java:S1450"VRemove the "speaker" field and declare it as a local variable in the relevant methods.(èó ¡8˜€”ÿñ.
+J
+java:S1481Z"-Remove this unused "language" local variable.(ï¸ÁŸ8Ì†–ÿñ.
+Y
+java:S1854Z"<Remove this useless assignment to local variable "language".(ï¸ÁŸ8Ì†–ÿñ.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(È¿¢íúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íËÅûûÿÿÿÿ
+\
+java:S1854b":Remove this useless assignment to local variable "speech".(³ê¢êüÿÿÿÿ8Ì†–ÿñ.

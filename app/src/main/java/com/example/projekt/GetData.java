@@ -17,6 +17,7 @@ import com.example.projekt.EntityClass.SlowkoModel;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class GetData extends AppCompatActivity {
 
     private List<SlowkoModel> list;
@@ -69,6 +70,7 @@ public class GetData extends AppCompatActivity {
             }
         }));
         slowkoAdapter = (SlowkoAdapter) recyclerView.getAdapter();
+
     }
 
 
@@ -90,7 +92,6 @@ public class GetData extends AppCompatActivity {
                 return false;
             }
         });
-
         return super.onCreateOptionsMenu(menu);
     }
 }

@@ -1,8 +1,8 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è»‰Ì
 D
 java:S1604="(Make this anonymous inner class a lambda(Ûó§8¯íÅ†ò.
 t	java:S116y"XRename this field "delete_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º°ÔÖ8¯íÅ†ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è»‰Ì
+t	java:S116x"XRename this field "update_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•È8¯íÅ†ò.
 J
 java:S16041"(Make this anonymous inner class a lambda(ÚÖûöüÿÿÿÿ8¯íÅ†ò.
-t	java:S116x"XRename this field "update_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•È8¯íÅ†ò.

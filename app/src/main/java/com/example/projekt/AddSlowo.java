@@ -31,21 +31,25 @@ public class AddSlowo extends AppCompatActivity {
                 String slowo = slowo_text.getText().toString().trim();
                 String tlumaczenie = tlumaczenie_text.getText().toString().trim();
 
-                SlowkoModel slowkoModel = new SlowkoModel();
-                slowkoModel.setSlowo(slowo);
-                slowkoModel.setTlumaczenie(tlumaczenie);
+                if(!slowo_text.getText().toString().equals(" ") || !tlumaczenie_text.getText().toString().equals(" ")){
+                    SlowkoModel slowkoModel = new SlowkoModel();
+                    slowkoModel.setSlowo(slowo);
+                    slowkoModel.setTlumaczenie(tlumaczenie);
 
-                ClassDatabase.getDatabase(getApplicationContext()).getDao().insertAllData(slowkoModel);
+                    ClassDatabase.getDatabase(getApplicationContext()).getDao().insertAllData(slowkoModel);
 
-                SlowkoModel slowkoModel1 = new SlowkoModel();
-                slowkoModel1.setSlowo(tlumaczenie);
-                slowkoModel1.setTlumaczenie(slowo);
+                    SlowkoModel slowkoModel1 = new SlowkoModel();
+                    slowkoModel1.setSlowo(tlumaczenie);
+                    slowkoModel1.setTlumaczenie(slowo);
 
-                ClassDatabase.getDatabase((getApplicationContext())).getDao().insertAllData(slowkoModel1);
+                    ClassDatabase.getDatabase((getApplicationContext())).getDao().insertAllData(slowkoModel1);
 
-                slowo_text.setText("");
-                tlumaczenie_text.setText("");
-                Toast.makeText(AddSlowo.this,"Slowo pomyślnie dodane", Toast.LENGTH_SHORT).show();
+                    slowo_text.setText("");
+                    tlumaczenie_text.setText("");
+                    Toast.makeText(AddSlowo.this,"Slowo pomyślnie dodane", Toast.LENGTH_SHORT).show();
+                }else{
+                    Toast.makeText(AddSlowo.this,"Czegoś brakuje, sprawdź czy nie zapomniałeś czegoś wpisać", Toast.LENGTH_SHORT).show();
+                }
             }
         });
 

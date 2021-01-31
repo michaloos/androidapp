@@ -1,60 +1,59 @@
 
-m
-java:S1301Q"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8«êÀÜò.
-V
-java:S1128"9Remove this unused import 'android.hardware.SensorEvent'.(•Á¸è8Ñ‚¢Õñ.
 v
 java:S1128"TRemove this unused import 'com.example.projekt.ActivityUczenieSie.PoziomTrudnosci1'.(²§ãëıÿÿÿÿ8ˆÿ˜ƒó.
-C	java:S131Q""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8«êÀÜò.
 V
 java:S1128
 "4Remove this unused import 'android.hardware.Sensor'.(á¥ı”úÿÿÿÿ8Ñ‚¢Õñ.
-O
-java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8¬äŠñ.
-C
-java:S16042"(Make this anonymous inner class a lambda(·¯¨Ïÿÿÿÿÿ
 |
 java:S1450&"aRemove the "button_dodaj_slowo" field and declare it as a local variable in the relevant methods.(ø„‡€úÿÿÿÿ
+>
+java:S1604G"(Make this anonymous inner class a lambda(È”öœ
+S
+java:S1128"6Remove this unused import 'android.media.MediaPlayer'.(İã¦8½‰üÜò.
+]
+java:S1128";Remove this unused import 'android.hardware.SensorManager'.(ªè½ôûÿÿÿÿ8„ı˜Õñ.
+C
+java:S16042"(Make this anonymous inner class a lambda(·¯¨Ïÿÿÿÿÿ
+V
+java:S1128"9Remove this unused import 'android.hardware.SensorEvent'.(•Á¸è8Ñ‚¢Õñ.
 S
 java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8ô°ëÜò.
-J	java:S108W")Either remove or fill this block of code.(™¿æøÿÿÿÿ8È€…ûó.
-W
-java:S1128":Remove this unused import 'android.content.ComponentName'.(½‹æŠ8¦³®ûó.
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8Ö¬äıò.
+T
+java:S1128"7Remove this unused import 'android.media.AudioManager'.(ÑŠÀ†8ïæ²ûó.
+p	java:S116#"VRename this field "button_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¾ÃØıÿÿÿÿ
+>
+java:S16049"(Make this anonymous inner class a lambda(Ïƒ‘ä
+R
+java:S1128"5Remove this unused import 'android.media.AudioTrack'.(‡©Äº8¤ĞğÜò.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8¬äŠñ.
+u
+java:S1450#"ZRemove the "button_test" field and declare it as a local variable in the relevant methods.(ğ¾ÃØıÿÿÿÿ
+s	java:S116$"YRename this field "button_ucz_sie" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äö•úÿÿÿÿ
 v
 java:S1450%"[Remove the "button_slowa" field and declare it as a local variable in the relevant methods.(ªí±ğøÿÿÿÿ
 C
 java:S1604@"(Make this anonymous inner class a lambda(Âİè¦ûÿÿÿÿ
 c
 java:S1128"ARemove this unused import 'android.hardware.SensorEventListener'.(ëƒÃ×şÿÿÿÿ8€•¢Õñ.
-T
-java:S1128"7Remove this unused import 'android.media.AudioManager'.(ÑŠÀ†8ïæ²ûó.
 \
 java:S1128":Remove this unused import 'android.media.AudioAttributes'.(˜¾«Şÿÿÿÿÿ8¬ã‚ó.
-q	java:S116%"WRename this field "button_slowa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªí±ğøÿÿÿÿ
-Q
-java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8Ö¬äıò.
->
-java:S16049"(Make this anonymous inner class a lambda(Ïƒ‘ä
-x
-java:S1450$"]Remove the "button_ucz_sie" field and declare it as a local variable in the relevant methods.(Äö•úÿÿÿÿ
-R
-java:S1128"5Remove this unused import 'android.media.AudioTrack'.(‡©Äº8¤ĞğÜò.
-U
-java:S1128"8Remove this unused import 'android.provider.MediaStore'.(ãçšş8½ƒõÜò.
-P	java:S110!"<This class has 9 parents which is greater than 5 authorized.(úèã
-p	java:S116#"VRename this field "button_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¾ÃØıÿÿÿÿ
-Q
-java:S1128"5Remove this unused import 'android.speech.tts.Voice'.(ˆ¯U8¬ã‚ó.
-s	java:S116$"YRename this field "button_ucz_sie" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äö•úÿÿÿÿ
 _
 java:S1128"IRemove this unused import 'com.google.android.material.badge.BadgeUtils'.(ùÃÛ³
->
-java:S1604G"(Make this anonymous inner class a lambda(È”öœ
-]
-java:S1128";Remove this unused import 'android.hardware.SensorManager'.(ªè½ôûÿÿÿÿ8„ı˜Õñ.
-S
-java:S1128"6Remove this unused import 'android.media.MediaPlayer'.(İã¦8½‰üÜò.
+J	java:S108W")Either remove or fill this block of code.(™¿æøÿÿÿÿ8È€…ûó.
+x
+java:S1450$"]Remove the "button_ucz_sie" field and declare it as a local variable in the relevant methods.(Äö•úÿÿÿÿ
+W
+java:S1128":Remove this unused import 'android.content.ComponentName'.(½‹æŠ8¦³®ûó.
+C	java:S131Q""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8«êÀÜò.
+q	java:S116%"WRename this field "button_slowa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªí±ğøÿÿÿÿ
+Q
+java:S1128"5Remove this unused import 'android.speech.tts.Voice'.(ˆ¯U8¬ã‚ó.
+U
+java:S1128"8Remove this unused import 'android.provider.MediaStore'.(ãçšş8½ƒõÜò.
+m
+java:S1301Q"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8«êÀÜò.
 w	java:S116&"]Rename this field "button_dodaj_slowo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø„‡€úÿÿÿÿ
 J	java:S108^")Either remove or fill this block of code.(™¿æøÿÿÿÿ8œæ¢ûó.
-u
-java:S1450#"ZRemove the "button_test" field and declare it as a local variable in the relevant methods.(ğ¾ÃØıÿÿÿÿ

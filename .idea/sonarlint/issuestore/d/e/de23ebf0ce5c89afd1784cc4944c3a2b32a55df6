@@ -1,22 +1,23 @@
 
-w	java:S116"VRename this field "sredni_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©½™κϊÿÿÿÿ8³†¬ήρ.
+J
+java:S16045"(Make this anonymous inner class a lambda(σΛΟϊÿÿÿÿ8©ƒ―ήρ.
+J
+java:S1604)"(Make this anonymous inner class a lambda(ΫΣµ–ÿÿÿÿÿ8Ήσ³ϊς.
+w	java:S116"VRename this field "sredni_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©½™κϊÿÿÿÿ8³†¬ήρ.
+=	java:S131\""Add a default case to this switch.(μϊΗV8Κΰ«ϊς.
+r	java:S116"VRename this field "trudny_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ή«8³†¬ήρ.
+E
+java:S1604C"(Make this anonymous inner class a lambda(Έ¬ϋ8©ƒ―ήρ.
 {
-java:S1450"YRemove the "start_test" field and declare it as a local variable in the relevant methods.(δέ¦ÿÿÿÿÿ8¥Ϋ³ήρ.
-J
-java:S1604("(Make this anonymous inner class a lambda(ΫΣµ–ÿÿÿÿÿ8Ήσ³ϊς.
-Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(φΊ„ƒ
+java:S1450"YRemove the "start_test" field and declare it as a local variable in the relevant methods.(δέ¦ÿÿÿÿÿ8¥Ϋ³ήρ.
+v	java:S116"URename this field "start_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(δέ¦ÿÿÿÿÿ8³†¬ήρ.
 E
-java:S1604I"(Make this anonymous inner class a lambda(κ‡Ε8©ƒ―ήρ.
-v	java:S116"URename this field "latwy_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϋ«ϊÿÿÿÿ8κ±¬ήρ.
-=	java:S131[""Add a default case to this switch.(μϊΗV8Κΰ«ϊς.
+java:S1604J"(Make this anonymous inner class a lambda(κ‡Ε8©ƒ―ήρ.
 J
-java:S16044"(Make this anonymous inner class a lambda(σΛΟϊÿÿÿÿ8©ƒ―ήρ.
-J
-java:S1604;"(Make this anonymous inner class a lambda(ώ»Αϊÿÿÿÿ8©ƒ―ήρ.
-E
-java:S1604B"(Make this anonymous inner class a lambda(Έ¬ϋ8©ƒ―ήρ.
+java:S1604<"(Make this anonymous inner class a lambda(ώ»Αϊÿÿÿÿ8©ƒ―ήρ.
+v	java:S116"URename this field "latwy_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϋ«ϊÿÿÿÿ8κ±¬ήρ.
 O
 java:S1128
 "-Remove this unused import 'android.util.Log'.(Τ¦Ψ²ψÿÿÿÿ8νΣ­ϊς.
-v	java:S116"URename this field "start_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(δέ¦ÿÿÿÿÿ8³†¬ήρ.
-r	java:S116"VRename this field "trudny_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ή«8³†¬ήρ.
+h
+java:S1128"FRemove this unused import 'com.example.projekt.Adapter.SlowkoAdapter'.(ϋιΉÿÿÿÿÿ8ÿν©ªυ.
