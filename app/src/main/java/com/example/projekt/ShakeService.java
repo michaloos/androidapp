@@ -1,37 +1,25 @@
 package com.example.projekt;
 
-import android.app.Service;
-import android.content.Context;
-import android.content.Intent;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
-import android.os.Build;
-import android.os.IBinder;
-import android.util.FloatMath;
-
-import androidx.annotation.Nullable;
-import androidx.annotation.RequiresApi;
-
 
 public class ShakeService implements SensorEventListener {
 
 
     private static final float SHAKE_THRESHOLD_GRAVITY = 2.7F;
     private static final int SHAKE_SLOP_TIME_MS = 500;
-    private static final int SHAKE_COUNT_RESET_TIME_MS = 3000;
 
     private OnShakeListener mListener;
     private long mShakeTimestamp;
-    private int mShakeCount;
 
     public void setOnShakeListener(OnShakeListener listener) {
         this.mListener = listener;
     }
 
     public interface OnShakeListener {
-        public void onShake(int count);
+        public void onShake();
     }
 
     @Override
@@ -57,15 +45,8 @@ public class ShakeService implements SensorEventListener {
                 if (mShakeTimestamp + SHAKE_SLOP_TIME_MS > now) {
                     return;
                 }
-                //resetujemy liczbe wstrzasow jeśli nic nie ma w ciągu 3 sekund
-                if (mShakeTimestamp + SHAKE_COUNT_RESET_TIME_MS < now) {
-                    mShakeCount = 0;
-                }
-
                 mShakeTimestamp = now;
-                mShakeCount++;
-
-                mListener.onShake(mShakeCount);
+                mListener.onShake();
             }
         }
     }

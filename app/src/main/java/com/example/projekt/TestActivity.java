@@ -42,7 +42,7 @@ public class TestActivity extends AppCompatActivity {
         mShakeService = new ShakeService();
         mShakeService.setOnShakeListener(new ShakeService.OnShakeListener() {
             @Override
-            public void onShake(int count) {
+            public void onShake() {
                 losujTest();
             }
         });
