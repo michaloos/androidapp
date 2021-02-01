@@ -31,7 +31,7 @@ public class AddSlowo extends AppCompatActivity {
                 String slowo = slowo_text.getText().toString().trim();
                 String tlumaczenie = tlumaczenie_text.getText().toString().trim();
 
-                if(!slowo_text.getText().toString().equals(" ") || !tlumaczenie_text.getText().toString().equals(" ")){
+                if(slowo.length() != 0 && tlumaczenie.length() != 0){
                     SlowkoModel slowkoModel = new SlowkoModel();
                     slowkoModel.setSlowo(slowo);
                     slowkoModel.setTlumaczenie(tlumaczenie);

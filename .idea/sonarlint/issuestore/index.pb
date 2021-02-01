@@ -18,7 +18,7 @@ e
 g
 7app/src/main/java/com/example/projekt/TestActivity.java,d/e/de23ebf0ce5c89afd1784cc4944c3a2b32a55df6
 i
-9app/src/main/java/com/example/projekt/UczsieActivity.java,4\7\47fc90692f27bdd63b86af4ae6ea32eb5eb8d203
+9app/src/main/java/com/example/projekt/UczsieActivity.java,4/7/47fc90692f27bdd63b86af4ae6ea32eb5eb8d203
 g
 7app/src/main/java/com/example/projekt/ShakeService.java,b\3\b3c72c2233ea64905799d5ba03b6a533d8c34b88
 @
@@ -44,8 +44,10 @@ k
 l
 <app/src/main/java/com/example/projekt/Testy/Sredni_Test.java,7\9\7976e15b19fad6ac207b1c7bfa67155a0314a8a9
 l
-<app/src/main/java/com/example/projekt/DaoClass/Daoclass.java,8\0\8053c226ef9ef03a6a6cda88d6d321529085057d
+<app/src/main/java/com/example/projekt/DaoClass/Daoclass.java,8/0/8053c226ef9ef03a6a6cda88d6d321529085057d
 r
-Bapp/src/main/java/com/example/projekt/EntityClass/SlowkoModel.java,d\6\d627734ab56c1a25785b2d62c47d7222e27588f2
+Bapp/src/main/java/com/example/projekt/EntityClass/SlowkoModel.java,d/6/d627734ab56c1a25785b2d62c47d7222e27588f2
 S
 #app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e
+J
+app/src/main/res/slowa.txt,9/e/9ea498749a14a6a250aea092afc3185392b82d20

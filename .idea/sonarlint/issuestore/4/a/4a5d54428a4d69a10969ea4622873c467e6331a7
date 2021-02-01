@@ -1,8 +1,8 @@
 
 p
 java:S1450"ZRemove the "button_save" field and declare it as a local variable in the relevant methods.(η”
-k	java:S116"VRename this field "button_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(η”
 o	java:S116"URename this field "slowo_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰αςψÿÿÿÿ
+p	java:S116"[Rename this field "tlumaczenie_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ίθδ
+k	java:S116"VRename this field "button_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(η”
 E
 java:S1604"(Make this anonymous inner class a lambda(θιτ8ιόπ„τ.
-p	java:S116"[Rename this field "tlumaczenie_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ίθδ
